@@ -36,7 +36,13 @@ Identify the league, tournament, or friendly match.
 ### Lineups:
 List starting XI for both teams, including formations (e.g., 4-4-2, 3-5-2).
 
-####
+#### Yokohama F Marinos (Home)
+
+
+#### Shanghai Shenhua (Away)
+
+Manager: Leonid Slutsky’s
+
 * 1	GK	China CHN	Ma Zhen
 * 3	DF	China CHN	Jin Shunkai
 * 4	DF	China CHN	Jiang Shenglong
@@ -83,8 +89,14 @@ Highlight influential players or match-ups.
 #### Saulo Mineiro aka Saul Miner 
 2021–2023	Yokohama FC
 
+#### Li Ke aka Nico Yennaris
+Shanghai Shenhua have added China PR international midfielder Li Ke to their squad in January. Li Ke played 23 times in the Chinese Super League for Beijing in the 2024 campaign as the club finished in fourth position. The England-born midfielder spent five seasons with Beijing FC, who he joined from Brentford having starting his career with Premier League giants Arsenal.
+
 ### Expectations:
 Note pre-match predictions, tactical observations, or personal expectations.
+
+* Marinos go into the New Year #1 in the group after winning their recent ACLE matches.
+* Shanghai Shenhua are currently ninth place in the eastern league standings in the AFC Champions League Elite with two rounds of group matches remaining.
 
 ## Match Highlights
 
