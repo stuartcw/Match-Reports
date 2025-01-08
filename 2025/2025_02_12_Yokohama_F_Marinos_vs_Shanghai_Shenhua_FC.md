@@ -14,6 +14,8 @@ Include the stadium or field name and its location.
 Note temperature, humidity, wind, and any notable weather phenomena.
 ### Teams:
 Write down the names of the two competing teams.
+* Home: Yokohama F Marinos
+* Away: Shanghai Shenhua FC
 ### Competition:
 Identify the league, tournament, or friendly match.
 
