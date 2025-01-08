@@ -16,7 +16,7 @@ Write down the names of the two competing teams.
 ### Competition:
 Identify the league, tournament, or friendly match.
 
-* ACLE [League Stage MD7]
+* AFC Champions League Elite - League Stage MD7
 
 #### Referee
 
