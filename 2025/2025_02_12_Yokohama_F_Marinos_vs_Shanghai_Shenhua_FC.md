@@ -111,38 +111,167 @@ Note pre-match predictions, tactical observations, or personal expectations.
 ## Match Highlights
 
 ### First Half Events:
-#### Goals:
-Time, scorer, assist, and any notable build-up or defensive errors.
-#### Key Plays:
-Near misses, saves, fouls, penalties, or offside calls.
+
+0.
+5.
+10.
+15.
+20.
+25.
+30.
+35.
+40.
+45.
+
+### Goals:
+Time, scorer, assist, 
+
+
+
+
+
+
+
+### Key Plays:
+
+
+
+
+#### Notable build-up
+
+
+
+
+#### Defensive errors.
+
+
+
+#### Near misses
+
+
+
+#### Saves
+
+
+
+#### Fouls
+
+
+
+#### Penalties
+
+
+
+#### Offside calls.
+
+
+
 #### Possession and Momentum:
 General trends or shifts in dominance.
+
+
+
+
 
 ### Second Half Events:
-#### Goals:
-Time, scorer, assist, and any notable build-up or defensive errors.
-#### Key Plays:
-Near misses, saves, fouls, penalties, or offside calls.
+
+45.
+50.
+55.
+60.
+65.
+70.
+75.
+80.
+85.
+### Goals:
+Time, scorer, assist, 
+
+
+
+
+
+
+
+### Key Plays:
+
+
+
+
+#### Notable build-up
+
+
+
+
+#### Defensive errors.
+
+
+
+#### Near misses
+
+
+
+#### Saves
+
+
+
+#### Fouls
+
+
+
+#### Penalties
+
+
+
+#### Offside calls.
+
+
+
 #### Possession and Momentum:
 General trends or shifts in dominance.
 
+
+
+
+
 #### Substitutes and their impact.
+
+
+
 #### Additional Periods (if applicable):
+
+
+
 #### Events from extra time or a penalty shootout.
+
+
+
 #### Final Score:
 Record the result, including penalties if applicable.
 
 ## Tactical Observations
+
 ### Formations:
 Note any changes in formations or styles during the game.
+
+
+
 ### Tactics:
 Summarize attacking and defensive strategies for each team.
+
+
+
 ### Key Battles:
 Identify critical areas of the pitch (e.g., midfield dominance or wing play).
+
+
+
+
 ### Adjustments:
 Detail in-game tactical shifts and their impact.
 
 ## Statistical Summary
+
 ### Possession Percentage:
 Approximate or official numbers.
 ### Shots:
@@ -157,31 +286,58 @@ General or key players’ passing data.
 ## Player Performances
 ### Standout Performers:
 Who excelled, and why?
+
+
 ### Underperformers:
 Players who struggled and potential reasons.
+
+
+
 ### Notable Contributions:
 Goals, assists, defensive interventions, etc.
+
+
+
 ### Ratings:
 Optionally, assign ratings (e.g., 1–10) for individual performances.
 
 ## Post-Match Analysis
+
 ### Key Moments:
 Highlight turning points or decisive moments.
+
+
+
 ### Strengths & Weaknesses:
 Observations for each team.
+
+
+
 ### Referee Performance:
 Any controversial or well-handled decisions.
+
+
+
 ### Overall Quality of Play:
 General impressions of the match intensity and entertainment.
+
+
+
 ### Lessons Learned:
 Insights about team strategies, individual skills, or tactical nuances.
 
 ## Personal Notes
 ### Enjoyment Level:
 Your overall enjoyment or dissatisfaction.
+
+
+
 ### Memorable Incidents:
 Anything unusual, funny, or unique about the match.
+
+
+
 ### Future Predictions:
 Thoughts on how the teams might perform in upcoming matches.
-This template can be customized to your preferences. Over time, you may find yourself emphasizing certain sections or skipping others based on the aspects of the game you value most.
+
 
