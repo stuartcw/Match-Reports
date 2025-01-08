@@ -9,7 +9,31 @@ Specify the match date and kick-off time.
 
 ### Venue:
 Include the stadium or field name and its location.
-* International stadium Yokohama, Shin Yokohama
+#### International Stadium Yokohama
+  
+Nissan Stadium (日産スタジアム, Nissan Sutajiamu), a.k.a. the International Stadium Yokohama (横浜国際総合競技場, Yokohama Kokusai Sōgō Kyōgi-jō), is a multi-purpose stadium in Yokohama, Kanagawa Prefecture, Japan, which opened in March 1998. It is the home stadium of Yokohama F. Marinos of the J1 League.  
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "bbox": [139.6000, 35.5000, 139.6200, 35.5200], 
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6065, 35.5106]
+      },
+      "properties": {
+        "name": "International stadium Yokohama, Shin Yokohama",
+        "city": "Yokohama",
+        "description": "Nissan Stadium"
+      }
+    }
+  ]
+}
+```
+
 ### Weather Conditions: 
 Note temperature, humidity, wind, and any notable weather phenomena.
 ### Teams:
