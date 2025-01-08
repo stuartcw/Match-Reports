@@ -1,5 +1,5 @@
 # Yokohama F Marinos vs Shanghai Shenhua FC
-AFC Champions League Elite - League Stage MD7
+AFC Champions League Elite™ - League Stage MD7
 
 ## Match Information
 ### Date & Time: 
@@ -33,7 +33,7 @@ Write down the names of the two competing teams.
 ### Competition:
 Identify the league, tournament, or friendly match.
 
-* AFC Champions League Elite - League Stage MD7
+* AFC Champions League Elite™ - League Stage MD7
 
 ### Referee
 
@@ -88,7 +88,7 @@ Include notable substitutes.
 ### Team Form:
 Briefly mention recent performances or streaks (e.g., “3 wins in the last 5 matches”).
 
-* Marinos go into the New Year #1 in the group after winning their recent ACLE matches.
+* Marinos currently lead the eastern standings in the AFC Champions League Elite™ 2024/25 with 13 points from their first six matches.
 * Shanghai Shenhua are currently ninth place in the eastern league standings in the AFC Champions League Elite with two rounds of group matches remaining.
 
 ### Key Players to Watch:
