@@ -13,17 +13,16 @@ Include the stadium or field name and its location.
 ### Weather Conditions: 
 Note temperature, humidity, wind, and any notable weather phenomena.
 ### Teams:
+
 Write down the names of the two competing teams.
-* Home: Yokohama F Marinos
-* Away: Shanghai Shenhua FC
-### Competition:
-Identify the league, tournament, or friendly match.
 
-* AFC Champions League Elite - League Stage MD7
+#### Home: Yokohama F Marinos
 
-#### Referee
-
-#### SHANGHAI SHENHUA FC (CHN)
+> Yokohama F. Marinos (横浜F・マリノス, Yokohama Efu Marinosu), stylised as Yokohama F·Marinos, is a Japanese professional football club based in Yokohama, Kanagawa Prefecture, part of the Greater Tokyo Area. The club competes in the J1 League, which is the top tier of football in the country.
+> 
+> Having won the J-League title five times and finishing second twice, they are one of the most successful J-League clubs. The team is based in Yokohama and was founded as the company team of Nissan Motor. The club was formed by the merger of Yokohama Marinos and Yokohama Flügels in 1999. The current name is intended to reflect both of the original names. Yokohama F. Marinos is the longest serving team in the top flight of Japanese football, having played at the top level since 1982, also making them, along with Kashima Antlers, one of only two teams to have competed in Japan's top flight of football every year since its inception.
+ 
+#### Away: Shanghai Shenhua FC (CHN)
 
 > Shanghai Shenhua Football Club (Chinese: 上海申花足球俱乐部; pinyin: Shànghǎi Shēnhuā Zúqiú Jùlèbù) is a Chinese professional football club based in Shanghai, that competes in the Chinese Super League, the top tier of Chinese football. Shanghai Shenhua plays its home matches at the Shanghai Stadium, located within Xuhui District. The owner of Shanghai Shenhua F.C. is Shanghai Jiushi Group, a state-owned cultural and sports operation company in Shanghai. Shanghai Shenhua is one of the four clubs to have never been relegated from the Chinese top-flight since the Chinese Super League's foundation in 2004. The term shen hua literally translates as "the Flower of Shanghai" in English – shen is one of the alternative names for Shanghai and hua means flower in Chinese.
 > 
@@ -31,8 +30,16 @@ Identify the league, tournament, or friendly match.
 > 
 > According to Forbes, Shenhua was the 6th most valuable football team in China, with a team value of $106 million, and an estimated revenue of $29 million in 2015.
 
+### Competition:
+Identify the league, tournament, or friendly match.
+
+* AFC Champions League Elite - League Stage MD7
+
+### Referee
+
 
 ## Pre-Match Details
+
 ### Lineups:
 List starting XI for both teams, including formations (e.g., 4-4-2, 3-5-2).
 
@@ -75,11 +82,15 @@ Manager: Leonid Slutsky’s
 * 45	DF	China CHN	Wang Longxiao
 * —	FW	Brazil BRA	Saulo Mineiro
 
-
 ### Bench Players:
 Include notable substitutes.
+
 ### Team Form:
 Briefly mention recent performances or streaks (e.g., “3 wins in the last 5 matches”).
+
+* Marinos go into the New Year #1 in the group after winning their recent ACLE matches.
+* Shanghai Shenhua are currently ninth place in the eastern league standings in the AFC Champions League Elite with two rounds of group matches remaining.
+
 ### Key Players to Watch:
 Highlight influential players or match-ups.
 
@@ -95,8 +106,7 @@ Shanghai Shenhua have added China PR international midfielder Li Ke to their squ
 ### Expectations:
 Note pre-match predictions, tactical observations, or personal expectations.
 
-* Marinos go into the New Year #1 in the group after winning their recent ACLE matches.
-* Shanghai Shenhua are currently ninth place in the eastern league standings in the AFC Champions League Elite with two rounds of group matches remaining.
+
 
 ## Match Highlights
 
