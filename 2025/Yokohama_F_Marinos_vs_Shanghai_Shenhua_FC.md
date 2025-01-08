@@ -75,9 +75,9 @@ Briefly mention recent performances or streaks (e.g., “3 wins in the last 5 ma
 Highlight influential players or match-ups.
 
 #### João Carlos Teixeira
-> "We introduced another young player in Joao Teixeira, who has done great in our reserve team. Not only did he show that he could come in and play with some of our top players, he's also shown he can fight for the team. He made a great block at the end and it was equally important for us.[Brendan Rogers](https://web.archive.org/web/20150402224656/http://www.liverpoolfc.com/news/latest-news/155235-rodgers-now-we-fight-until-the-end)
+> "We introduced another young player in Joao Teixeira, who has done great in our reserve team. Not only did he show that he could come in and play with some of our top players, he's also shown he can fight for the team. He made a great block at the end and it was equally important for us. [Brendan Rogers](https://web.archive.org/web/20150402224656/http://www.liverpoolfc.com/news/latest-news/155235-rodgers-now-we-fight-until-the-end)
 
-#### Saul Miner 
+#### Saulo Mineiro aka Saul Miner 
 2021–2023	Yokohama FC
 
 ### Expectations:
