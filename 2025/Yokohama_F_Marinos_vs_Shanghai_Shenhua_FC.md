@@ -13,9 +13,13 @@ Include the stadium or field name and its location.
 Note temperature, humidity, wind, and any notable weather phenomena.
 ### Teams:
 Write down the names of the two competing teams.
-### Competition: Identify the league, tournament, or friendly match.
+### Competition:
+Identify the league, tournament, or friendly match.
 
 * ACLE [League Stage MD7]
+
+#### Referee
+
 #### SHANGHAI SHENHUA FC (CHN)
 
 > Shanghai Shenhua Football Club (Chinese: 上海申花足球俱乐部; pinyin: Shànghǎi Shēnhuā Zúqiú Jùlèbù) is a Chinese professional football club based in Shanghai, that competes in the Chinese Super League, the top tier of Chinese football. Shanghai Shenhua plays its home matches at the Shanghai Stadium, located within Xuhui District. The owner of Shanghai Shenhua F.C. is Shanghai Jiushi Group,[2] a state-owned cultural and sports operation company in Shanghai. Shanghai Shenhua is one of the four clubs to have never been relegated from the Chinese top-flight since the Chinese Super League's foundation in 2004. The term shen hua literally translates as "the Flower of Shanghai" in English – shen is one of the alternative names for Shanghai and hua means flower in Chinese.
@@ -69,6 +73,13 @@ Include notable substitutes.
 Briefly mention recent performances or streaks (e.g., “3 wins in the last 5 matches”).
 ### Key Players to Watch:
 Highlight influential players or match-ups.
+
+#### João Carlos Teixeira
+> "We introduced another young player in Joao Teixeira, who has done great in our reserve team. Not only did he show that he could come in and play with some of our top players, he's also shown he can fight for the team. He made a great block at the end and it was equally important for us.[Brendan Rogers](https://web.archive.org/web/20150402224656/http://www.liverpoolfc.com/news/latest-news/155235-rodgers-now-we-fight-until-the-end)
+
+#### Saul Miner 
+2021–2023	Yokohama FC
+
 ### Expectations:
 Note pre-match predictions, tactical observations, or personal expectations.
 
