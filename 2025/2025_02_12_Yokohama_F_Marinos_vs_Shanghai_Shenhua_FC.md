@@ -48,6 +48,40 @@ Write down the names of the two competing teams.
  
 #### Away: Shanghai Shenhua FC (CHN)
 
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6065, 35.5106]
+      },
+      "properties": {
+        "name": "Nissan Stadium",
+        "city": "Yokohama",
+        "country": "Japan",
+        "description": "A multipurpose stadium in Yokohama, Japan, known for sports and concerts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4373, 31.183503]
+      },
+      "properties": {
+        "name": "Shanghai Stadium",
+        "city": "Shanghai",
+        "country": "China",
+        "description": "A large sports stadium in the Xuhui District of Shanghai, China."
+      }
+    }
+  ]
+}
+```
+
 > Shanghai Shenhua Football Club (Chinese: 上海申花足球俱乐部; pinyin: Shànghǎi Shēnhuā Zúqiú Jùlèbù) is a Chinese professional football club based in Shanghai, that competes in the Chinese Super League, the top tier of Chinese football. Shanghai Shenhua plays its home matches at the Shanghai Stadium, located within Xuhui District. The owner of Shanghai Shenhua F.C. is Shanghai Jiushi Group, a state-owned cultural and sports operation company in Shanghai. Shanghai Shenhua is one of the four clubs to have never been relegated from the Chinese top-flight since the Chinese Super League's foundation in 2004. The term shen hua literally translates as "the Flower of Shanghai" in English – shen is one of the alternative names for Shanghai and hua means flower in Chinese.
 > 
 > The club's predecessor was the municipal-run semi-pro club Shanghai F.C.. The team predominantly played in the top tier, where they won several domestic league and cup titles. On 10 December 1993, the club was reorganized to become a completely professional football club so they could play in the 1994 Chinese Jia-A League season, making them one of the founding members of the first fully professional top-tier leagues in China. Since then, they have won one league title and four Chinese FA Cups.
