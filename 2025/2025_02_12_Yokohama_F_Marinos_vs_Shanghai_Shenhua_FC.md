@@ -36,6 +36,25 @@ Nissan Stadium (日産スタジアム, Nissan Sutajiamu), a.k.a. the Internation
 
 ### Weather Conditions: 
 Note temperature, humidity, wind, and any notable weather phenomena.
+
+#### Historical Weather Conditions
+
+##### Temperature
+The average daily temperature on February 12th in Yokohama typically ranges from a low of 3°C (37°F) to a high of 11°C (52°F). However, temperatures can occasionally drop below freezing or rise above 16°C (61°F) on warmer days.
+##### Precipitation
+There is about a 26% chance of rain or snow on February 12th in Yokohama. The average precipitation for the day is around 3 mm (0.12 inches). While snow is possible, it’s relatively rare and usually doesn’t accumulate significantly.
+##### Wind
+Average wind speeds are around 12 km/h (7 mph). The wind typically comes from the north in February.
+##### Sunshine
+On average, there are about 6 hours of sunshine per day in February. The day length on February 12th is approximately 10 hours and 40 minutes.
+##### Humidity
+The average humidity in February is around 54%.
+##### Unusual Weather Events
+While rare, Yokohama can occasionally experience more extreme weather conditions in February:
+1.	Cold snaps: In January 2018, temperatures dropped to -2.7°C (27.1°F).
+2.	Unseasonably warm weather: In recent years, there have been reports of unusually warm temperatures in February, with some areas in Japan experiencing temperatures typically seen in April or May.
+3.	Heavy snowfall: Although uncommon, significant snowfall can occur. In February 2014, heavy snow caused widespread disruptions in the Kanto region, which includes Yokohama.
+
 ### Teams:
 
 Write down the names of the two competing teams.
