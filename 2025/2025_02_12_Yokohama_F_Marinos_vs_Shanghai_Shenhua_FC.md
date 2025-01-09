@@ -108,37 +108,58 @@ List starting XI for both teams, including formations (e.g., 4-4-2, 3-5-2).
 
 Manager: Leonid Slutsky’s
 
-* 1	GK	China CHN	Ma Zhen
-* 3	DF	China CHN	Jin Shunkai
-* 4	DF	China CHN	Jiang Shenglong
-* 5	DF	China CHN	Zhu Chenjie
-* 6	MF	France FRA	Ibrahim Amadou
-* 7	MF	China CHN	Xu Haoyang
-* 9	FW	Brazil BRA	André Luis
-* 10	MF	Portugal POR	João Carlos Teixeira
-* 13	DF	Portugal POR	Wilson Manafá
-* 14	FW	China CHN	Xie Pengfei
-* 15	MF	China CHN	Wu Xi
-* 16	DF	China CHN	Yang Zexiang
-* 17	MF	China CHN	Gao Tianyi
-* 18	FW	China CHN	Fernandinho (on loan from Shandong Taishan)
-* 20	FW	China CHN	Yu Hanchao
-* 21	DF	China CHN	Cui Lin
-* 27	DF	Hong Kong HKG	Shinichi Chan
-* 29	MF	China CHN	Zhou Junchen
-* 30	GK	China CHN	Bao Yaxiong
-* 32	DF	China CHN	Eddy Francis
-* 33	MF	China CHN	Wang Haijian
-* 34	FW	China CHN	Liu Chengyu
-* 36	FW	China CHN	Fei Ernanduo
-* 39	FW	China CHN	Liu Yujie
-* 40	DF	China CHN	Yu Hang
-* 41	GK	China CHN	Zhou Zhengkai
-* 42	DF	China CHN	Wang Junqiang
-* 43	DF	China CHN	He Bizhen
-* 44	GK	China CHN	Liu Haoran
-* 45	DF	China CHN	Wang Longxiao
-* —	FW	Brazil BRA	Saulo Mineiro
+| No. | Pos. | Nation | Player |
+| --- | --- | --- | --- |
+| 1 | [GK][GK] | [CHN][CHN] | [Ma Zhen][Ma%20Zhen] |
+| 3 | [DF][DF] | [CHN][CHN] | [Jin Shunkai][Jin%20Shunkai] |
+| 4 | [DF][DF] | [CHN][CHN] | [Jiang Shenglong][Jiang%20Shenglong] |
+| 5 | [DF][DF] | [CHN][CHN] | [Zhu Chenjie][Zhu%20Chenjie] |
+| 6 | [MF][MF] | [FRA][FRA] | [Ibrahim Amadou][Ibrahim%20Amadou] |
+| 7 | [MF][MF] | [CHN][CHN] | [Xu Haoyang][Xu%20Haoyang] |
+| 9 | [FW][FW] | [BRA][BRA] | [André Luis][Andr%C3%A9%20Luis] |
+| 10 | [MF][MF] | [POR][POR] | [João Carlos Teixeira][Jo%C3%A3o%20Carlos%20Teixeira] |
+| 13 | [DF][DF] | [POR][POR] | [Wilson Manafá][Wilson%20Manaf%C3%A1] |
+| 14 | [FW][FW] | [CHN][CHN] | [Xie Pengfei][Xie%20Pengfei] |
+| 15 | [MF][MF] | [CHN][CHN] | [Wu Xi][Wu%20Xi] |
+| 16 | [DF][DF] | [CHN][CHN] | [Yang Zexiang][Yang%20Zexiang] |
+| 17 | [MF][MF] | [CHN][CHN] | [Gao Tianyi][Gao%20Tianyi] |
+| 18 | [FW][FW] | [CHN][CHN] | [Fernandinho][Fernandinho] |
+| 20 | [FW][FW] | [CHN][CHN] | [Yu Hanchao][Yu%20Hanchao] |
+| 21 | [DF][DF] | [CHN][CHN] | [Cui Lin][Cui%20Lin] |
+| 27 | [DF][DF] | [HKG][HKG] | [Shinichi Chan][Shinichi%20Chan] |
+| 29 | [MF][MF] | [CHN][CHN] | [Zhou Junchen][Zhou%20Junchen] |
+| 30 | [GK][GK] | [CHN][CHN] | [Bao Yaxiong][Bao%20Yaxiong] |
+| 32 | [DF][DF] | [CHN][CHN] | [Eddy Francis][Eddy%20Francis] |
+| 33 | [MF][MF] | [CHN][CHN] | [Wang Haijian][Wang%20Haijian] |
+| 34 | [FW][FW] | [CHN][CHN] | [Liu Chengyu][Liu%20Chengyu] |
+| 36 | [FW][FW] | [CHN][CHN] | [Fei Ernanduo][Fei%20Ernanduo] |
+| 39 | [FW][FW] | [CHN][CHN] | [Liu Yujie][Liu%20Yujie] |
+| 40 | [DF][DF] | [CHN][CHN] | [Yu Hang][Yu%20Hang] |
+| 41 | [GK][GK] | [CHN][CHN] | [Zhou Zhengkai][Zhou%20Zhengkai] |
+| 42 | [DF][DF] | [CHN][CHN] | [Wang Junqiang][Wang%20Junqiang] |
+| 43 | [DF][DF] | [CHN][CHN] | [He Bizhen][He%20Bizhen] |
+| 44 | [GK][GK] | [CHN][CHN] | Liu Haoran |
+| 45 | [DF][DF] | [CHN][CHN] | [Wang Longxiao][Wang%20Longxiao] |
+| — | [FW][FW] | [BRA][BRA] | [Saulo Mineiro][Saulo%20Mineiro] |
+| 27 | [FW][FW] | [CHN][CHN] | [Zhu Jianrong][Zhu%20Jianrong] |
+| 37 | [MF][MF] | [CHN][CHN] | [Sun Shilin][Sun%20Shilin] |
+| 42 | [DF][DF] | [CHN][CHN] | [Jiang Zhixin][Jiang%20Zhixin] |
+| 45 | [DF][DF] | [CHN][CHN] | [Liu Qiuqi][Liu%20Qiuqi] |
+| 46 | [DF][DF] | [CHN][CHN] | [Guo Chen][Guo%20Chen] |
+| 54 | [DF][DF] | [ESP][ESP] | [David Wang][David%20Wang] |
+| 56 | [MF][MF] | [CHN][CHN] | [Su Yihao][Su%20Yihao] |
+| 60 | [GK][GK] | [CHN][CHN] | [Jiang Yutao][Jiang%20Yutao] |
+| — | [GK][GK] | [CHN][CHN] | [Wang Hanyi][Wang%20Hanyi] |
+| — | [GK][GK] | [CHN][CHN] | [Xue Qinghao][Xue%20Qinghao] |
+| 35 | [DF][DF] | [CHN][CHN] | [Zhu Yue][Zhu%20Yue] |
+| — | [DF][DF] | [CHN][CHN] | [Wang Hao][Wang%20Hao] |
+| 22 | [DF][DF] | [CHN][CHN] | [Jin Yangyang][Jin%20Yangyang] |
+| 24 | [DF][DF] | [CHN][CHN] | [Xu Yougang][Xu%20Yougang] |
+| 8 | [MF][MF] | [CHN][CHN] | [Dai Wai Tsun][Dai%20Wai%20Tsun] |
+| 35 | [MF][MF] | [CHN][CHN] | [He Longhai][He%20Longhai] |
+| — | [MF][MF] | [CHN][CHN] | [Zhu Qiwen][Zhu%20Qiwen] |
+| 18 | [FW][FW] | [CHN][CHN] | [Zhang Wei][Zhang%20Wei] |
+
 
 ### Bench Players:
 Include notable substitutes.
@@ -399,3 +420,61 @@ Anything unusual, funny, or unique about the match.
 Thoughts on how the teams might perform in upcoming matches.
 
 
+[GK]: https://en.wikipedia.org/wiki/Goalkeeper_%28association_football%29
+[CHN]: https://en.wikipedia.org/wiki/Chinese_Football_Association
+[Ma%20Zhen]: https://en.wikipedia.org/wiki/Ma_Zhen
+[DF]: https://en.wikipedia.org/wiki/Defender_%28association_football%29
+[Jin%20Shunkai]: https://en.wikipedia.org/wiki/Jin_Shunkai
+[Jiang%20Shenglong]: https://en.wikipedia.org/wiki/Jiang_Shenglong
+[Zhu%20Chenjie]: https://en.wikipedia.org/wiki/Zhu_Chenjie
+[MF]: https://en.wikipedia.org/wiki/Midfielder
+[FRA]: https://en.wikipedia.org/wiki/French_Football_Federation
+[Ibrahim%20Amadou]: https://en.wikipedia.org/wiki/Ibrahim_Amadou
+[Xu%20Haoyang]: https://en.wikipedia.org/wiki/Xu_Haoyang
+[FW]: https://en.wikipedia.org/wiki/Forward_%28association_football%29
+[BRA]: https://en.wikipedia.org/wiki/Brazilian_Football_Confederation
+[Andr%C3%A9%20Luis]: https://en.wikipedia.org/wiki/Andr%25C3%25A9_Luis_%28footballer%2C_born_1994%29
+[POR]: https://en.wikipedia.org/wiki/Portuguese_Football_Federation
+[Jo%C3%A3o%20Carlos%20Teixeira]: https://en.wikipedia.org/wiki/Jo%25C3%25A3o_Carlos_Teixeira
+[Wilson%20Manaf%C3%A1]: https://en.wikipedia.org/wiki/Wilson_Manaf%25C3%25A1
+[Xie%20Pengfei]: https://en.wikipedia.org/wiki/Xie_Pengfei
+[Wu%20Xi]: https://en.wikipedia.org/wiki/Wu_Xi_%28footballer%29
+[Yang%20Zexiang]: https://en.wikipedia.org/wiki/Yang_Zexiang
+[Gao%20Tianyi]: https://en.wikipedia.org/wiki/Gao_Tianyi
+[Fernandinho]: https://en.wikipedia.org/wiki/Fernandinho_%28footballer%2C_born_March_1993%29
+[Yu%20Hanchao]: https://en.wikipedia.org/wiki/Yu_Hanchao
+[Cui%20Lin]: https://en.wikipedia.org/wiki/Cui_Lin_%28footballer%29
+[HKG]: https://en.wikipedia.org/wiki/Football_Association_of_Hong_Kong%2C_China
+[Shinichi%20Chan]: https://en.wikipedia.org/wiki/Shinichi_Chan
+[Zhou%20Junchen]: https://en.wikipedia.org/wiki/Zhou_Junchen
+[Bao%20Yaxiong]: https://en.wikipedia.org/wiki/Bao_Yaxiong
+[Eddy%20Francis]: https://en.wikipedia.org/wiki/Eddy_Francis
+[Wang%20Haijian]: https://en.wikipedia.org/wiki/Wang_Haijian
+[Liu%20Chengyu]: https://en.wikipedia.org/wiki/Liu_Chengyu
+[Fei%20Ernanduo]: https://en.wikipedia.org/wiki/Fei_Ernanduo
+[Liu%20Yujie]: https://en.wikipedia.org/w/index.php?title=Liu_Yujie&action=edit&redlink=1
+[Yu%20Hang]: https://en.wikipedia.org/w/index.php?title=Yu_Hang&action=edit&redlink=1
+[Zhou%20Zhengkai]: https://en.wikipedia.org/w/index.php?title=Zhou_Zhengkai&action=edit&redlink=1
+[Wang%20Junqiang]: https://en.wikipedia.org/w/index.php?title=Wang_Junqiang&action=edit&redlink=1
+[He%20Bizhen]: https://en.wikipedia.org/w/index.php?title=He_Bizhen&action=edit&redlink=1
+[Wang%20Longxiao]: https://en.wikipedia.org/w/index.php?title=Wang_Longxiao&action=edit&redlink=1
+[Saulo%20Mineiro]: https://en.wikipedia.org/wiki/Saulo_Mineiro
+[Zhu%20Jianrong]: https://en.wikipedia.org/wiki/Zhu_Jianrong
+[Sun%20Shilin]: https://en.wikipedia.org/wiki/Sun_Shilin
+[Jiang%20Zhixin]: https://en.wikipedia.org/w/index.php?title=Jiang_Zhixin&action=edit&redlink=1
+[Liu%20Qiuqi]: https://en.wikipedia.org/w/index.php?title=Liu_Qiuqi&action=edit&redlink=1
+[Guo%20Chen]: https://en.wikipedia.org/w/index.php?title=Guo_Chen&action=edit&redlink=1
+[ESP]: https://en.wikipedia.org/wiki/Royal_Spanish_Football_Federation
+[David%20Wang]: https://en.wikipedia.org/wiki/David_Wang_%28footballer%29
+[Su%20Yihao]: https://en.wikipedia.org/w/index.php?title=Su_Yihao&action=edit&redlink=1
+[Jiang%20Yutao]: https://en.wikipedia.org/w/index.php?title=Jiang_Yutao&action=edit&redlink=1
+[Wang%20Hanyi]: https://en.wikipedia.org/w/index.php?title=Wang_Hanyi&action=edit&redlink=1
+[Xue%20Qinghao]: https://en.wikipedia.org/wiki/Xue_Qinghao
+[Zhu%20Yue]: https://en.wikipedia.org/wiki/Zhu_Yue_%28footballer%29
+[Wang%20Hao]: https://en.wikipedia.org/w/index.php?title=Wang_Hao_(footballer,_born_2002)&action=edit&redlink=1
+[Jin%20Yangyang]: https://en.wikipedia.org/wiki/Jin_Yangyang
+[Xu%20Yougang]: https://en.wikipedia.org/wiki/Xu_Yougang
+[Dai%20Wai%20Tsun]: https://en.wikipedia.org/wiki/Dai_Wai_Tsun
+[He%20Longhai]: https://en.wikipedia.org/wiki/He_Longhai
+[Zhu%20Qiwen]: https://en.wikipedia.org/w/index.php?title=Zhu_Qiwen&action=edit&redlink=1
+[Zhang%20Wei]: https://en.wikipedia.org/wiki/Zhang_Wei_%28footballer%2C_born_2000%29%
