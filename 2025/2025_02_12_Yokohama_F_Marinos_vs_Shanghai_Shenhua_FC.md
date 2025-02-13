@@ -1,14 +1,19 @@
 # Yokohama F Marinos vs Shanghai Shenhua FC
+
 AFC Champions League Elite™ - League Stage MD7
 
 ## Match Information
+
+### Score
+
+Yokohama F. Marinos	1	-	0	Shanghai Shenhua FC
+
 ### Date & Time: 
-Specify the match date and kick-off time.
 
 * Wednesday Feb 12th - 19:00
 
 ### Venue:
-Include the stadium or field name and its location.
+
 #### International Stadium Yokohama
   
 Nissan Stadium (日産スタジアム, Nissan Sutajiamu), a.k.a. the International Stadium Yokohama (横浜国際総合競技場, Yokohama Kokusai Sōgō Kyōgi-jō), is a multi-purpose stadium in Yokohama, Kanagawa Prefecture, Japan, which opened in March 1998. It is the home stadium of Yokohama F. Marinos of the J1 League.  
@@ -35,7 +40,8 @@ Nissan Stadium (日産スタジアム, Nissan Sutajiamu), a.k.a. the Internation
 ```
 
 ### Weather Conditions: 
-Note temperature, humidity, wind, and any notable weather phenomena.
+
+The weather was cold with a fairly strong wind.
 
 #### Historical Weather Conditions
 
@@ -56,8 +62,6 @@ While rare, Yokohama can occasionally experience more extreme weather conditions
 3.	Heavy snowfall: Although uncommon, significant snowfall can occur. In February 2014, heavy snow caused widespread disruptions in the Kanto region, which includes Yokohama.
 
 ### Teams:
-
-Write down the names of the two competing teams.
 
 #### Home: Yokohama F Marinos
 
@@ -108,7 +112,6 @@ Write down the names of the two competing teams.
 > According to Forbes, Shenhua was the 6th most valuable football team in China, with a team value of $106 million, and an estimated revenue of $29 million in 2015.
 
 ### Competition:
-Identify the league, tournament, or friendly match.
 
 * AFC Champions League Elite™ - League Stage MD7
 
@@ -121,6 +124,31 @@ Identify the league, tournament, or friendly match.
 List starting XI for both teams, including formations (e.g., 4-4-2, 3-5-2).
 
 #### Yokohama F Marinos (Home)
+
+| No. | Pos. | Nation | Player |
+| --- | --- | --- | --- |
+| 2	| K. Nagato	|[JPN][JPN] | MF |
+| 8	 | T. Kida 45‎'‎	|[JPN][JPN] | MF
+| 10 | Anderson Lopes	|[BRA][BRA]  | FW
+| 11 | Yan Matheus 20‎'‎81‎'‎	|[BRA][BRA]  | MF
+| 14 | A. Uenaka 61‎'‎89‎'‎	|[JPN][JPN] | MF
+| 17 | K. Inoue	|[JPN][JPN] | MF
+| 19 | Park Il-Gyu	|[JPN][JPN] | GK
+| 27 | K. Matsubara 66‎'‎	|[JPN][JPN] | DF
+| 29 | J. Quiñónes	|[COL][COL] | DF
+| 39 | T. Watanabe	|[JPN][JPN] | DF
+| 45 | K. Aziangbe	|[TOG][TOG] | MF
+
+* Substitutes *
+
+| No. | Pos. | Nation | Player |
+| --- | --- | --- | --- |
+| 6 | K. Watanabe 45‎' |[JPN][JPN] |‎	Sub |
+| 20 | J. Amano 81‎'‎	 |[JPN][JPN] | Sub |
+| 28 | R. Yamane 89‎'‎ |[JPN][JPN] | Sub |
+
+* Manager *
+-	Stephen Anthony Holland	MAN
 
 
 #### Shanghai Shenhua (Away)
@@ -438,7 +466,9 @@ Anything unusual, funny, or unique about the match.
 ### Future Predictions:
 Thoughts on how the teams might perform in upcoming matches.
 
-
+[TOG]: https://en.wikipedia.org/wiki/Togolese_Football_Federation
+[COL]: https://en.wikipedia.org/wiki/Colombian_Football_Federation
+[JPN]: https://en.wikipedia.org/wiki/Japan_Football_Association
 [GK]: https://en.wikipedia.org/wiki/Goalkeeper_%28association_football%29
 [CHN]: https://en.wikipedia.org/wiki/Chinese_Football_Association
 [Ma%20Zhen]: https://en.wikipedia.org/wiki/Ma_Zhen
