@@ -156,6 +156,11 @@ List starting XI for both teams, including formations (e.g., 4-4-2, 3-5-2).
 
 - Leonid Slutsky’s
 
+
+
+
+Squad
+
 | No. | Pos. | Nation | Player |
 | --- | --- | --- | --- |
 | 1 | [GK][GK] | [CHN][CHN] | [Ma Zhen][Ma%20Zhen] |
