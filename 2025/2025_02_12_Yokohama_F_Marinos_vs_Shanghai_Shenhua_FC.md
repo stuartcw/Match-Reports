@@ -18,27 +18,6 @@ Yokohama F. Marinos	1	-	0	Shanghai Shenhua FC
   
 Nissan Stadium (日産スタジアム, Nissan Sutajiamu), a.k.a. the International Stadium Yokohama (横浜国際総合競技場, Yokohama Kokusai Sōgō Kyōgi-jō), is a multi-purpose stadium in Yokohama, Kanagawa Prefecture, Japan, which opened in March 1998. It is the home stadium of Yokohama F. Marinos of the J1 League.  
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "bbox": [139.6000, 35.5000, 139.6200, 35.5200], 
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [139.6065, 35.5106]
-      },
-      "properties": {
-        "name": "International stadium Yokohama, Shin Yokohama",
-        "city": "Yokohama",
-        "description": "Nissan Stadium"
-      }
-    }
-  ]
-}
-```
-
 ### Weather Conditions: 
 
 The weather was cold with a fairly strong wind.
@@ -71,40 +50,6 @@ While rare, Yokohama can occasionally experience more extreme weather conditions
  
 #### Away: Shanghai Shenhua FC (CHN)
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [139.6065, 35.5106]
-      },
-      "properties": {
-        "name": "Nissan Stadium",
-        "city": "Yokohama",
-        "country": "Japan",
-        "description": "A multipurpose stadium in Yokohama, Japan, known for sports and concerts."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [121.4373, 31.183503]
-      },
-      "properties": {
-        "name": "Shanghai Stadium",
-        "city": "Shanghai",
-        "country": "China",
-        "description": "A large sports stadium in the Xuhui District of Shanghai, China."
-      }
-    }
-  ]
-}
-```
-
 > Shanghai Shenhua Football Club (Chinese: 上海申花足球俱乐部; pinyin: Shànghǎi Shēnhuā Zúqiú Jùlèbù) is a Chinese professional football club based in Shanghai, that competes in the Chinese Super League, the top tier of Chinese football. Shanghai Shenhua plays its home matches at the Shanghai Stadium, located within Xuhui District. The owner of Shanghai Shenhua F.C. is Shanghai Jiushi Group, a state-owned cultural and sports operation company in Shanghai. Shanghai Shenhua is one of the four clubs to have never been relegated from the Chinese top-flight since the Chinese Super League's foundation in 2004. The term shen hua literally translates as "the Flower of Shanghai" in English – shen is one of the alternative names for Shanghai and hua means flower in Chinese.
 > 
 > The club's predecessor was the municipal-run semi-pro club Shanghai F.C.. The team predominantly played in the top tier, where they won several domestic league and cup titles. On 10 December 1993, the club was reorganized to become a completely professional football club so they could play in the 1994 Chinese Jia-A League season, making them one of the founding members of the first fully professional top-tier leagues in China. Since then, they have won one league title and four Chinese FA Cups.
@@ -113,10 +58,9 @@ While rare, Yokohama can occasionally experience more extreme weather conditions
 
 ### Competition:
 
-* AFC Champions League Elite™ - League Stage MD7
+* [AFC Champions League Elite™ - League Stage MD7](https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md7-yokohama-f-marinos-jpn-1-0-shanghai-shenhua-fc-chn)
 
 ### Referee
-
 
 ## Pre-Match Details
 
@@ -131,10 +75,10 @@ List starting XI for both teams, including formations (e.g., 4-4-2, 3-5-2).
 | 8	 | T. Kida  :small_red_triangle_down: 45‎'‎	|[JPN][JPN] | MF
 | 10 | Anderson Lopes	|[BRA][BRA]  | FW
 | 11 | Yan Matheus :soccer: 20‎'‎ :small_red_triangle_down: 81‎'‎	|[BRA][BRA]  | MF
-| 14 | A. Uenaka :small_red_triangle: 61‎'‎  :small_red_triangle_down: 89‎'‎	|[JPN][JPN] | MF
+| 14 | A. Uenaka :small_orange_diamond: 61‎'‎  :small_red_triangle_down: 89‎'‎	|[JPN][JPN] | MF
 | 17 | K. Inoue	|[JPN][JPN] | MF
 | 19 | Park Il-Gyu	|[JPN][JPN] | GK
-| 27 | K. Matsubara :small_red_triangle_down: 66‎'‎	|[JPN][JPN] | DF
+| 27 | K. Matsubara :small_orange_diamond: 66‎'‎	|[JPN][JPN] | DF
 | 29 | J. Quiñónes	|[COL][COL] | DF
 | 39 | T. Watanabe	|[JPN][JPN] | DF
 | 45 | K. Aziangbe	|[TOG][TOG] | MF
@@ -152,67 +96,30 @@ List starting XI for both teams, including formations (e.g., 4-4-2, 3-5-2).
 
 #### Shanghai Shenhua (Away)
 
-*Manager:* 
+| No. | Pos. | Nation | Player |
+| --- | --- | --- | --- |
+| 5	 | Zhu Chenjie | [CHN][CHN] |	DF |
+| 6	 | I. Amadou  :small_orange_diamond: 26‎'  :small_red_triangle_down: ‎82‎'‎	| [CHN][CHN] |MF |
+| 9	 | André Luís | [CHN][CHN] |	FW |
+| 10 | João Teixeira | [CHN][CHN] |	MF |
+| 13 | Wilson Manafá  46‎'| [CHN][CHN] |‎	DF |
+| 15 | Wu Xi  :small_red_triangle_down: 81‎'‎| [CHN][CHN] |	MF |
+| 27 | Chan Shinichi | [CHN][CHN] |	DF |
+| 30 | Bao Yaxiong | [CHN][CHN] |	GK |
+| 43 | Yang Haoyu   :small_red_triangle_down:62‎'| [CHN][CHN] |‎	MF |
+| 73 | Saulo Mineiro | [CHN][CHN] |	FW |
 
-- Leonid Slutsky’s
-
-
-
-
-Squad
+*Substitutes*
 
 | No. | Pos. | Nation | Player |
 | --- | --- | --- | --- |
-| 1 | [GK][GK] | [CHN][CHN] | [Ma Zhen][Ma%20Zhen] |
-| 3 | [DF][DF] | [CHN][CHN] | [Jin Shunkai][Jin%20Shunkai] |
-| 4 | [DF][DF] | [CHN][CHN] | [Jiang Shenglong][Jiang%20Shenglong] |
-| 5 | [DF][DF] | [CHN][CHN] | [Zhu Chenjie][Zhu%20Chenjie] |
-| 6 | [MF][MF] | [FRA][FRA] | [Ibrahim Amadou][Ibrahim%20Amadou] |
-| 7 | [MF][MF] | [CHN][CHN] | [Xu Haoyang][Xu%20Haoyang] |
-| 9 | [FW][FW] | [BRA][BRA] | [André Luis][Andr%C3%A9%20Luis] |
-| 10 | [MF][MF] | [POR][POR] | [João Carlos Teixeira][Jo%C3%A3o%20Carlos%20Teixeira] |
-| 13 | [DF][DF] | [POR][POR] | [Wilson Manafá][Wilson%20Manaf%C3%A1] |
-| 14 | [FW][FW] | [CHN][CHN] | [Xie Pengfei][Xie%20Pengfei] |
-| 15 | [MF][MF] | [CHN][CHN] | [Wu Xi][Wu%20Xi] |
-| 16 | [DF][DF] | [CHN][CHN] | [Yang Zexiang][Yang%20Zexiang] |
-| 17 | [MF][MF] | [CHN][CHN] | [Gao Tianyi][Gao%20Tianyi] |
-| 18 | [FW][FW] | [CHN][CHN] | [Fernandinho][Fernandinho] |
-| 20 | [FW][FW] | [CHN][CHN] | [Yu Hanchao][Yu%20Hanchao] |
-| 21 | [DF][DF] | [CHN][CHN] | [Cui Lin][Cui%20Lin] |
-| 27 | [DF][DF] | [HKG][HKG] | [Shinichi Chan][Shinichi%20Chan] |
-| 29 | [MF][MF] | [CHN][CHN] | [Zhou Junchen][Zhou%20Junchen] |
-| 30 | [GK][GK] | [CHN][CHN] | [Bao Yaxiong][Bao%20Yaxiong] |
-| 32 | [DF][DF] | [CHN][CHN] | [Eddy Francis][Eddy%20Francis] |
-| 33 | [MF][MF] | [CHN][CHN] | [Wang Haijian][Wang%20Haijian] |
-| 34 | [FW][FW] | [CHN][CHN] | [Liu Chengyu][Liu%20Chengyu] |
-| 36 | [FW][FW] | [CHN][CHN] | [Fei Ernanduo][Fei%20Ernanduo] |
-| 39 | [FW][FW] | [CHN][CHN] | [Liu Yujie][Liu%20Yujie] |
-| 40 | [DF][DF] | [CHN][CHN] | [Yu Hang][Yu%20Hang] |
-| 41 | [GK][GK] | [CHN][CHN] | [Zhou Zhengkai][Zhou%20Zhengkai] |
-| 42 | [DF][DF] | [CHN][CHN] | [Wang Junqiang][Wang%20Junqiang] |
-| 43 | [DF][DF] | [CHN][CHN] | [He Bizhen][He%20Bizhen] |
-| 44 | [GK][GK] | [CHN][CHN] | Liu Haoran |
-| 45 | [DF][DF] | [CHN][CHN] | [Wang Longxiao][Wang%20Longxiao] |
-| — | [FW][FW] | [BRA][BRA] | [Saulo Mineiro][Saulo%20Mineiro] |
-| 27 | [FW][FW] | [CHN][CHN] | [Zhu Jianrong][Zhu%20Jianrong] |
-| 37 | [MF][MF] | [CHN][CHN] | [Sun Shilin][Sun%20Shilin] |
-| 42 | [DF][DF] | [CHN][CHN] | [Jiang Zhixin][Jiang%20Zhixin] |
-| 45 | [DF][DF] | [CHN][CHN] | [Liu Qiuqi][Liu%20Qiuqi] |
-| 46 | [DF][DF] | [CHN][CHN] | [Guo Chen][Guo%20Chen] |
-| 54 | [DF][DF] | [ESP][ESP] | [David Wang][David%20Wang] |
-| 56 | [MF][MF] | [CHN][CHN] | [Su Yihao][Su%20Yihao] |
-| 60 | [GK][GK] | [CHN][CHN] | [Jiang Yutao][Jiang%20Yutao] |
-| — | [GK][GK] | [CHN][CHN] | [Wang Hanyi][Wang%20Hanyi] |
-| — | [GK][GK] | [CHN][CHN] | [Xue Qinghao][Xue%20Qinghao] |
-| 35 | [DF][DF] | [CHN][CHN] | [Zhu Yue][Zhu%20Yue] |
-| — | [DF][DF] | [CHN][CHN] | [Wang Hao][Wang%20Hao] |
-| 22 | [DF][DF] | [CHN][CHN] | [Jin Yangyang][Jin%20Yangyang] |
-| 24 | [DF][DF] | [CHN][CHN] | [Xu Yougang][Xu%20Yougang] |
-| 8 | [MF][MF] | [CHN][CHN] | [Dai Wai Tsun][Dai%20Wai%20Tsun] |
-| 35 | [MF][MF] | [CHN][CHN] | [He Longhai][He%20Longhai] |
-| — | [MF][MF] | [CHN][CHN] | [Zhu Qiwen][Zhu%20Qiwen] |
-| 18 | [FW][FW] | [CHN][CHN] | [Zhang Wei][Zhang%20Wei] |
+| 16 | Yang Zexiang :small_red_triangle:46‎' | [CHN][CHN] |	‎	Sub |
+| 17 | Gao Tianyi :small_red_triangle:62‎' | [CHN][CHN] |	‎	Sub |
+| 20 | Yu Hanchao :small_red_triangle:81‎' | [CHN][CHN] |	‎	Sub |
+| 23 | Li Ke :small_red_triangle:82‎'‎ | [CHN][CHN] |		Sub |
 
+*Manager:* 
+- Leonid Slutsky’s
 
 ### Bench Players:
 Include notable substitutes.
@@ -239,7 +146,6 @@ Shanghai Shenhua have added China PR international midfielder Li Ke to their squ
 Note pre-match predictions, tactical observations, or personal expectations.
 
 
-
 ## Match Highlights
 
 ### First Half Events:
@@ -258,10 +164,7 @@ Note pre-match predictions, tactical observations, or personal expectations.
 ### Goals:
 Time, scorer, assist, 
 
-
-
-
-
+- 20 - Yan Mateus - Assist Anderson Lopez. 
 
 
 ### Key Plays:
@@ -372,14 +275,16 @@ General trends or shifts in dominance.
 
 #### Additional Periods (if applicable):
 
-
+n/a
 
 #### Events from extra time or a penalty shootout.
 
+n/a
 
 
 #### Final Score:
-Record the result, including penalties if applicable.
+
+Yokohama F. Marinos 1 - 0 Shanghai Shenhua FC
 
 ## Tactical Observations
 
@@ -406,14 +311,33 @@ Detail in-game tactical shifts and their impact.
 
 ### Possession Percentage:
 Approximate or official numbers.
+
+* Ball Possesion: 52% - 48%
+
 ### Shots:
-Total shots, shots on target, and notable misses.
+
+* Big Chances: 1 - 3
+* Total Shots: 10 - 14
+* Goalkeeper Saves: 4 - 3
+
 ### Corners:
-Count for both teams.
+
+* Corner Kicks: 4 - 9
+
 ### Fouls & Cards:
-Yellow/red cards and any controversial decisions.
+
+* Free Kicks: 9 - 9
+* Fouls: 9 - 9
+* Yellow Cards: 2 -1
+
+* 26 :small_orange_diamond: I. Amadou
+* 61 :small_orange_diamond: A. Uenaka
+* 66 :small_orange_diamond: K. Mastsubara
+
 ### Passing Accuracy:
-General or key players’ passing data.
+
+* Passes: 506 - 467
+* Tackles: 20 - 13
 
 ## Player Performances
 ### Standout Performers:
@@ -462,34 +386,155 @@ Insights about team strategies, individual skills, or tactical nuances.
 ### Enjoyment Level:
 Your overall enjoyment or dissatisfaction.
 
-
+* Very fun match. Weather wasn't bad or too cold.
 
 ### Memorable Incidents:
 Anything unusual, funny, or unique about the match.
 
-
+* Kida subbed off at 45 mins. Why not at half time.
 
 ### Future Predictions:
 Thoughts on how the teams might perform in upcoming matches.
 
+## Appedix
+
+
+### Shanghai Squad
+
+| No. | Pos. | Nation | Player |
+| --- | --- | --- | --- |
+| 1 | [GK][GK] | [CHN][CHN] | [Ma Zhen][Ma%20Zhen] |
+| 3 | [DF][DF] | [CHN][CHN] | [Jin Shunkai][Jin%20Shunkai] |
+| 4 | [DF][DF] | [CHN][CHN] | [Jiang Shenglong][Jiang%20Shenglong] |
+| 5 | [DF][DF] | [CHN][CHN] | [Zhu Chenjie][Zhu%20Chenjie] |
+| 6 | [MF][MF] | [FRA][FRA] | [Ibrahim Amadou][Ibrahim%20Amadou] |
+| 7 | [MF][MF] | [CHN][CHN] | [Xu Haoyang][Xu%20Haoyang] |
+| 9 | [FW][FW] | [BRA][BRA] | [André Luis][Andr%C3%A9%20Luis] |
+| 10 | [MF][MF] | [POR][POR] | [João Carlos Teixeira][Jo%C3%A3o%20Carlos%20Teixeira] |
+| 13 | [DF][DF] | [POR][POR] | [Wilson Manafá][Wilson%20Manaf%C3%A1] |
+| 14 | [FW][FW] | [CHN][CHN] | [Xie Pengfei][Xie%20Pengfei] |
+| 15 | [MF][MF] | [CHN][CHN] | [Wu Xi][Wu%20Xi] |
+| 16 | [DF][DF] | [CHN][CHN] | [Yang Zexiang][Yang%20Zexiang] |
+| 17 | [MF][MF] | [CHN][CHN] | [Gao Tianyi][Gao%20Tianyi] |
+| 18 | [FW][FW] | [CHN][CHN] | [Fernandinho][Fernandinho] |
+| 20 | [FW][FW] | [CHN][CHN] | [Yu Hanchao][Yu%20Hanchao] |
+| 21 | [DF][DF] | [CHN][CHN] | [Cui Lin][Cui%20Lin] |
+| 27 | [DF][DF] | [HKG][HKG] | [Shinichi Chan][Shinichi%20Chan] |
+| 29 | [MF][MF] | [CHN][CHN] | [Zhou Junchen][Zhou%20Junchen] |
+| 30 | [GK][GK] | [CHN][CHN] | [Bao Yaxiong][Bao%20Yaxiong] |
+| 32 | [DF][DF] | [CHN][CHN] | [Eddy Francis][Eddy%20Francis] |
+| 33 | [MF][MF] | [CHN][CHN] | [Wang Haijian][Wang%20Haijian] |
+| 34 | [FW][FW] | [CHN][CHN] | [Liu Chengyu][Liu%20Chengyu] |
+| 36 | [FW][FW] | [CHN][CHN] | [Fei Ernanduo][Fei%20Ernanduo] |
+| 39 | [FW][FW] | [CHN][CHN] | [Liu Yujie][Liu%20Yujie] |
+| 40 | [DF][DF] | [CHN][CHN] | [Yu Hang][Yu%20Hang] |
+| 41 | [GK][GK] | [CHN][CHN] | [Zhou Zhengkai][Zhou%20Zhengkai] |
+| 42 | [DF][DF] | [CHN][CHN] | [Wang Junqiang][Wang%20Junqiang] |
+| 43 | [DF][DF] | [CHN][CHN] | [He Bizhen][He%20Bizhen] |
+| 44 | [GK][GK] | [CHN][CHN] | Liu Haoran |
+| 45 | [DF][DF] | [CHN][CHN] | [Wang Longxiao][Wang%20Longxiao] |
+| — | [FW][FW] | [BRA][BRA] | [Saulo Mineiro][Saulo%20Mineiro] |
+| 27 | [FW][FW] | [CHN][CHN] | [Zhu Jianrong][Zhu%20Jianrong] |
+| 37 | [MF][MF] | [CHN][CHN] | [Sun Shilin][Sun%20Shilin] |
+| 42 | [DF][DF] | [CHN][CHN] | [Jiang Zhixin][Jiang%20Zhixin] |
+| 45 | [DF][DF] | [CHN][CHN] | [Liu Qiuqi][Liu%20Qiuqi] |
+| 46 | [DF][DF] | [CHN][CHN] | [Guo Chen][Guo%20Chen] |
+| 54 | [DF][DF] | [ESP][ESP] | [David Wang][David%20Wang] |
+| 56 | [MF][MF] | [CHN][CHN] | [Su Yihao][Su%20Yihao] |
+| 60 | [GK][GK] | [CHN][CHN] | [Jiang Yutao][Jiang%20Yutao] |
+| — | [GK][GK] | [CHN][CHN] | [Wang Hanyi][Wang%20Hanyi] |
+| — | [GK][GK] | [CHN][CHN] | [Xue Qinghao][Xue%20Qinghao] |
+| 35 | [DF][DF] | [CHN][CHN] | [Zhu Yue][Zhu%20Yue] |
+| — | [DF][DF] | [CHN][CHN] | [Wang Hao][Wang%20Hao] |
+| 22 | [DF][DF] | [CHN][CHN] | [Jin Yangyang][Jin%20Yangyang] |
+| 24 | [DF][DF] | [CHN][CHN] | [Xu Yougang][Xu%20Yougang] |
+| 8 | [MF][MF] | [CHN][CHN] | [Dai Wai Tsun][Dai%20Wai%20Tsun] |
+| 35 | [MF][MF] | [CHN][CHN] | [He Longhai][He%20Longhai] |
+| — | [MF][MF] | [CHN][CHN] | [Zhu Qiwen][Zhu%20Qiwen] |
+| 18 | [FW][FW] | [CHN][CHN] | [Zhang Wei][Zhang%20Wei] |
+
+### Nissan Stadium
+
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "bbox": [139.6000, 35.5000, 139.6200, 35.5200], 
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6065, 35.5106]
+      },
+      "properties": {
+        "name": "International stadium Yokohama, Shin Yokohama",
+        "city": "Yokohama",
+        "description": "Nissan Stadium"
+      }
+    }
+  ]
+}
+```
+### Club Locations
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6065, 35.5106]
+      },
+      "properties": {
+        "name": "Nissan Stadium",
+        "city": "Yokohama",
+        "country": "Japan",
+        "description": "A multipurpose stadium in Yokohama, Japan, known for sports and concerts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4373, 31.183503]
+      },
+      "properties": {
+        "name": "Shanghai Stadium",
+        "city": "Shanghai",
+        "country": "China",
+        "description": "A large sports stadium in the Xuhui District of Shanghai, China."
+      }
+    }
+  ]
+}
+```
+
+
 [TOG]: https://en.wikipedia.org/wiki/Togolese_Football_Federation
 [COL]: https://en.wikipedia.org/wiki/Colombian_Football_Federation
 [JPN]: https://en.wikipedia.org/wiki/Japan_Football_Association
-[GK]: https://en.wikipedia.org/wiki/Goalkeeper_%28association_football%29
 [CHN]: https://en.wikipedia.org/wiki/Chinese_Football_Association
-[Ma%20Zhen]: https://en.wikipedia.org/wiki/Ma_Zhen
+[FRA]: https://en.wikipedia.org/wiki/French_Football_Federation
+[BRA]: https://en.wikipedia.org/wiki/Brazilian_Football_Confederation
+
+[GK]: https://en.wikipedia.org/wiki/Goalkeeper_%28association_football%29
 [DF]: https://en.wikipedia.org/wiki/Defender_%28association_football%29
+[MF]: https://en.wikipedia.org/wiki/Midfielder
+[FW]: https://en.wikipedia.org/wiki/Forward_%28association_football%29
+[POR]: https://en.wikipedia.org/wiki/Portuguese_Football_Federation
+[HKG]: https://en.wikipedia.org/wiki/Football_Association_of_Hong_Kong%2C_China
+[ESP]: https://en.wikipedia.org/wiki/Royal_Spanish_Football_Federation
+
+[Ma%20Zhen]: https://en.wikipedia.org/wiki/Ma_Zhen
 [Jin%20Shunkai]: https://en.wikipedia.org/wiki/Jin_Shunkai
 [Jiang%20Shenglong]: https://en.wikipedia.org/wiki/Jiang_Shenglong
 [Zhu%20Chenjie]: https://en.wikipedia.org/wiki/Zhu_Chenjie
-[MF]: https://en.wikipedia.org/wiki/Midfielder
-[FRA]: https://en.wikipedia.org/wiki/French_Football_Federation
 [Ibrahim%20Amadou]: https://en.wikipedia.org/wiki/Ibrahim_Amadou
 [Xu%20Haoyang]: https://en.wikipedia.org/wiki/Xu_Haoyang
-[FW]: https://en.wikipedia.org/wiki/Forward_%28association_football%29
-[BRA]: https://en.wikipedia.org/wiki/Brazilian_Football_Confederation
 [Andr%C3%A9%20Luis]: https://en.wikipedia.org/wiki/Andr%25C3%25A9_Luis_%28footballer%2C_born_1994%29
-[POR]: https://en.wikipedia.org/wiki/Portuguese_Football_Federation
 [Jo%C3%A3o%20Carlos%20Teixeira]: https://en.wikipedia.org/wiki/Jo%25C3%25A3o_Carlos_Teixeira
 [Wilson%20Manaf%C3%A1]: https://en.wikipedia.org/wiki/Wilson_Manaf%25C3%25A1
 [Xie%20Pengfei]: https://en.wikipedia.org/wiki/Xie_Pengfei
@@ -499,7 +544,6 @@ Thoughts on how the teams might perform in upcoming matches.
 [Fernandinho]: https://en.wikipedia.org/wiki/Fernandinho_%28footballer%2C_born_March_1993%29
 [Yu%20Hanchao]: https://en.wikipedia.org/wiki/Yu_Hanchao
 [Cui%20Lin]: https://en.wikipedia.org/wiki/Cui_Lin_%28footballer%29
-[HKG]: https://en.wikipedia.org/wiki/Football_Association_of_Hong_Kong%2C_China
 [Shinichi%20Chan]: https://en.wikipedia.org/wiki/Shinichi_Chan
 [Zhou%20Junchen]: https://en.wikipedia.org/wiki/Zhou_Junchen
 [Bao%20Yaxiong]: https://en.wikipedia.org/wiki/Bao_Yaxiong
@@ -519,7 +563,6 @@ Thoughts on how the teams might perform in upcoming matches.
 [Jiang%20Zhixin]: https://en.wikipedia.org/w/index.php?title=Jiang_Zhixin&action=edit&redlink=1
 [Liu%20Qiuqi]: https://en.wikipedia.org/w/index.php?title=Liu_Qiuqi&action=edit&redlink=1
 [Guo%20Chen]: https://en.wikipedia.org/w/index.php?title=Guo_Chen&action=edit&redlink=1
-[ESP]: https://en.wikipedia.org/wiki/Royal_Spanish_Football_Federation
 [David%20Wang]: https://en.wikipedia.org/wiki/David_Wang_%28footballer%29
 [Su%20Yihao]: https://en.wikipedia.org/w/index.php?title=Su_Yihao&action=edit&redlink=1
 [Jiang%20Yutao]: https://en.wikipedia.org/w/index.php?title=Jiang_Yutao&action=edit&redlink=1
