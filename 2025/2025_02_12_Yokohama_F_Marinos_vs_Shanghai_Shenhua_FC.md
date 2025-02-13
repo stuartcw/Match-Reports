@@ -128,32 +128,33 @@ List starting XI for both teams, including formations (e.g., 4-4-2, 3-5-2).
 | No. | Pos. | Nation | Player |
 | --- | --- | --- | --- |
 | 2	| K. Nagato	|[JPN][JPN] | MF |
-| 8	 | T. Kida 45‎'‎	|[JPN][JPN] | MF
+| 8	 | T. Kida  :small_red_triangle_down: 45‎'‎	|[JPN][JPN] | MF
 | 10 | Anderson Lopes	|[BRA][BRA]  | FW
-| 11 | Yan Matheus 20‎'‎81‎'‎	|[BRA][BRA]  | MF
-| 14 | A. Uenaka 61‎'‎89‎'‎	|[JPN][JPN] | MF
+| 11 | Yan Matheus :soccer: 20‎'‎ :small_red_triangle_down: 81‎'‎	|[BRA][BRA]  | MF
+| 14 | A. Uenaka :small_red_triangle: 61‎'‎  :small_red_triangle_down: 89‎'‎	|[JPN][JPN] | MF
 | 17 | K. Inoue	|[JPN][JPN] | MF
 | 19 | Park Il-Gyu	|[JPN][JPN] | GK
-| 27 | K. Matsubara 66‎'‎	|[JPN][JPN] | DF
+| 27 | K. Matsubara :small_red_triangle_down: 66‎'‎	|[JPN][JPN] | DF
 | 29 | J. Quiñónes	|[COL][COL] | DF
 | 39 | T. Watanabe	|[JPN][JPN] | DF
 | 45 | K. Aziangbe	|[TOG][TOG] | MF
 
-* Substitutes *
+*Substitutes*
 
 | No. | Pos. | Nation | Player |
 | --- | --- | --- | --- |
-| 6 | K. Watanabe 45‎' |[JPN][JPN] |‎	Sub |
-| 20 | J. Amano 81‎'‎	 |[JPN][JPN] | Sub |
-| 28 | R. Yamane 89‎'‎ |[JPN][JPN] | Sub |
+| 6 | K. Watanabe :small_red_triangle: 45‎' |[JPN][JPN] |‎	Sub |
+| 20 | J. Amano :small_red_triangle: 81‎'‎	 |[JPN][JPN] | Sub |
+| 28 | R. Yamane :small_red_triangle: 89‎'‎ |[JPN][JPN] | Sub |
 
-* Manager *
+*Manager*
 -	Stephen Anthony Holland	MAN
-
 
 #### Shanghai Shenhua (Away)
 
-Manager: Leonid Slutsky’s
+*Manager:* 
+
+- Leonid Slutsky’s
 
 | No. | Pos. | Nation | Player |
 | --- | --- | --- | --- |
