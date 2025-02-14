@@ -151,13 +151,13 @@ Note pre-match predictions, tactical observations, or personal expectations.
 ### First Half Events:
 
 0.
-5.
-10.
-15.
-20.
+5. 6:30 YFM Almost conceeded after some pinball in the box. Well defended.
+10. Nice play for YFM building up into the box with several chances.
+15. 17:53 Jession gifted the ball to Shanghai but Miniero missed.
+20. Goal YFM Yan Mateus scored from just outside of the box after posession was regained. Assist Ander Lopez backheel.
 25.
 30.
-35.
+35. Lopez shoots over the bar after an assist from Nagato on the right who received a long ball into the box from Inoue on the left.
 40.
 45.
 
@@ -165,7 +165,6 @@ Note pre-match predictions, tactical observations, or personal expectations.
 Time, scorer, assist, 
 
 - 20 - Yan Mateus - Assist Anderson Lopez. 
-
 
 ### Key Plays:
 
@@ -212,20 +211,16 @@ General trends or shifts in dominance.
 
 45.
 50.
-55.
+55. Park saved a header. Uenaka missed from the edge of the box after a pass through the defence from Yan. Park then saved a point blank shot from Minero right at the right hand corner.
 60.
-65.
+65. Uenaka diving header wide from a long ball from Inoue.
 70.
 75.
-80.
+80. Matsubara took a very long shot that was saved. From between the half way line and the penalty area.
 85.
+
 ### Goals:
 Time, scorer, assist, 
-
-
-
-
-
 
 
 ### Key Plays:
@@ -291,7 +286,29 @@ Yokohama F. Marinos 1 - 0 Shanghai Shenhua FC
 ### Formations:
 Note any changes in formations or styles during the game.
 
+#### Yokohama F Marinos (Home)
 
+3-4-3
+
+| | | |  | | |  |
+|-|-|-|-|-|-|-|
+| | | |Lopes | | |  |
+| | |Uenaka| |Mateus | |  |
+| Nagato| || | | | Inoue |
+| | | Jean C. | | Kida (C) | |  |
+| | Taiki|| | | Matsubara |  |
+| | | | Ilgyu | | |  |
+
+#### Shanghai Shenhua (Away)
+
+| | | |  | | |  |
+|-|-|-|-|-|-|-|
+| | | |x | | |  |
+| | |x| |x | |  |
+| x| || | | | x |
+| | | x | | x | |  |
+| | x|| | | x |  |
+| | | | x | | |  |
 
 ### Tactics:
 Summarize attacking and defensive strategies for each team.
@@ -383,6 +400,7 @@ General impressions of the match intensity and entertainment.
 Insights about team strategies, individual skills, or tactical nuances.
 
 ## Personal Notes
+
 ### Enjoyment Level:
 Your overall enjoyment or dissatisfaction.
 
